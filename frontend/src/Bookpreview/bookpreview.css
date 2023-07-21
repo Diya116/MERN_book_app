@@ -1,0 +1,14 @@
+.preview{
+    background-color:azure
+}
+.books{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.book{
+    height: 200px;
+    width:300px;
+    background-color:cornsilk
+}
